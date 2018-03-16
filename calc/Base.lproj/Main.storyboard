@@ -6,6 +6,7 @@
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -46,7 +47,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="86.5" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="AC">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
@@ -54,7 +55,7 @@
                                                 <rect key="frame" x="96.5" y="0.0" width="86" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="+/-">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
@@ -62,7 +63,7 @@
                                                 <rect key="frame" x="192.5" y="0.0" width="86.5" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="%">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
@@ -70,7 +71,7 @@
                                                 <rect key="frame" x="289" y="0.0" width="86" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="/">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
@@ -83,7 +84,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="86.5" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="7">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
@@ -91,7 +92,7 @@
                                                 <rect key="frame" x="96.5" y="0.0" width="86" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="8">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
@@ -99,7 +100,7 @@
                                                 <rect key="frame" x="192.5" y="0.0" width="86.5" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="9">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
@@ -107,7 +108,7 @@
                                                 <rect key="frame" x="289" y="0.0" width="86" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="x">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
@@ -120,7 +121,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="86.5" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="4">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
@@ -128,7 +129,7 @@
                                                 <rect key="frame" x="96.5" y="0.0" width="86" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="5">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
@@ -136,7 +137,7 @@
                                                 <rect key="frame" x="192.5" y="0.0" width="86.5" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="6">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
@@ -144,7 +145,7 @@
                                                 <rect key="frame" x="289" y="0.0" width="86" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="-">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
@@ -165,7 +166,7 @@
                                                 <rect key="frame" x="96.5" y="0.0" width="86" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="2">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
@@ -173,7 +174,7 @@
                                                 <rect key="frame" x="192.5" y="0.0" width="86.5" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="3">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
@@ -181,36 +182,28 @@
                                                 <rect key="frame" x="289" y="0.0" width="86" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="+">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
                                         </subviews>
                                     </stackView>
-                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="otR-dv-Vb5">
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="otR-dv-Vb5">
                                         <rect key="frame" x="0.0" y="547.5" width="375" height="99.5"/>
                                         <subviews>
-                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EUr-ou-rvZ">
-                                                <rect key="frame" x="0.0" y="0.0" width="86.5" height="99.5"/>
-                                                <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
-                                                    <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                                </state>
-                                            </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Q3Y-9F-Qzh">
-                                                <rect key="frame" x="96.5" y="0.0" width="86" height="99.5"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="183.5" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="0">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4lT-DO-n9f">
-                                                <rect key="frame" x="192.5" y="0.0" width="86.5" height="99.5"/>
+                                                <rect key="frame" x="193.5" y="0.0" width="85.5" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title=".">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
@@ -218,11 +211,15 @@
                                                 <rect key="frame" x="289" y="0.0" width="86" height="99.5"/>
                                                 <color key="backgroundColor" red="0.0" green="0.74751573810000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
-                                                <state key="normal" title="1">
+                                                <state key="normal" title="=">
                                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                             </button>
                                         </subviews>
+                                        <constraints>
+                                            <constraint firstItem="4lT-DO-n9f" firstAttribute="width" secondItem="Q3Y-9F-Qzh" secondAttribute="width" multiplier="1:2.15" id="4CD-pD-7na"/>
+                                            <constraint firstItem="Bzz-8r-DPr" firstAttribute="width" secondItem="4lT-DO-n9f" secondAttribute="width" id="hAW-Ap-CtV"/>
+                                        </constraints>
                                     </stackView>
                                 </subviews>
                             </stackView>
